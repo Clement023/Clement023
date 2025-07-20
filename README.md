@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 `Python` | `JavaScript` | `Matlab` | `Node.js` | `SQL` | `HTML` | `CSS` | `Mathematica`
 
 #### ⚙️ Frameworks & Libraries
-`React` | `Next.js` | `Express.js` | `FastAPI` | `Tailwind CSS` | `Jupyter` | `Apache Spark` 
+`React` | `Next.js` | `Express.js` | `FastAPI` | `Tailwind CSS` | `Jupyter` | `Apache Spark` | `Flask` 
 
 #### 🤖 AI / ML / DL / Data
 `TensorFlow` | `PyTorch` | `Scikit-Learn` | `LangChain` | `OpenAI API` | `Azure Machine Learning Studio`  
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 `MongoDB` | `PostgreSQL` | `Firebase` | `PL/SQL` | `MySQL` | `SQLite`
 
 #### ☁️ DevOps & Cloud
-`Docker` | `GitHub Actions` | `Vercel` | `Netlify` | `AWS` | `GCP` | ``
+`Docker` | `GitHub Actions` | `Vercel` | `Netlify` | `AWS` | `GCP`
 
 #### 📱 Mobile & Real-Time
 `React Native` | `Expo` | `Socket.IO`
