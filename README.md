@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Clement023&show_icons=true&theme=radical&hide=issues" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clement023&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/langs/?username=Clement023&layout=compact&theme=radical" />
 </p>
 
 ---
