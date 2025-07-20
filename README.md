@@ -64,15 +64,6 @@ Here are some ideas to get you started:
 - 🛠️ [**SmartShop**](https://github.com/Clement023/smartshop) — An on-budget food shopping platform that takes dietary needs into account  
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Clement023&show_icons=true&theme=radical&hide=issues" />
-  <img src="https://github-readme-stats.vercel.app/api/langs/?username=Clement023&layout=compact&theme=radical" />
-</p>
-
----
-
 ### 📈 GitHub Streak
 
 <p align="center">
