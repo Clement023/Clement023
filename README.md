@@ -14,12 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 <!-- Profile Header -->
 <h1 align="center">Hi there, I'm Clement M 👋</h1>
 <p align="center">🌍 Building the future for Africa, one innovation at a time.</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="[https://linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/clement-m-17b7b0265/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-ContactMe-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -30,8 +32,32 @@ Here are some ideas to get you started:
 - 🧠 AI Engineer | Tech Strategist | Startup Builder  
 - 🎯 Turning "dead ideas" into real impact through inclusive tech  
 - 🌍 Passionate about transforming Africa’s economy and access to opportunity  
-- 🧰 Tech I work with:  
-  `Python` | `Node.js` | `JavaScript` | `MongoDB` | `PostgreSQL` | `HTML/CSS` | `React` | `Next.js` | `AI/ML`
+
+---
+
+### 💻 Tech I Work With
+
+#### 🧠 Languages
+`Python` | `JavaScript` | `TypeScript` | `Node.js` | `SQL` | `HTML` | `CSS` | `Bash`
+
+#### ⚙️ Frameworks & Libraries
+`React` | `Next.js` | `Express.js` | `FastAPI` | `Tailwind CSS` | `Bootstrap`
+
+#### 🤖 AI / ML / Data
+`TensorFlow` | `PyTorch` | `Scikit-Learn` | `LangChain` | `OpenAI API` | `Whisper`  
+`Pandas` | `NumPy` | `Hugging Face` | `OpenCV`
+
+#### 🛢️ Databases
+`MongoDB` | `PostgreSQL` | `Firebase` | `Redis` | `MySQL` | `Supabase`
+
+#### ☁️ DevOps & Cloud
+`Docker` | `GitHub Actions` | `Vercel` | `Netlify` | `AWS` | `GCP` | `Railway`
+
+#### 📱 Mobile & Real-Time
+`React Native` | `Expo` | `Socket.IO` | `WebSockets` | `PWA`
+
+#### 🎨 Design & Misc
+`Figma` | `Markdown` | `Notion API` | `Stripe` | `Linux CLI` | `Nginx`
 
 ---
 
@@ -40,15 +66,6 @@ Here are some ideas to get you started:
 - 🛠️ [**Outreach**](https://github.com/YOURUSERNAME/Outreach) — A mobile-first hybrid income platform for South Africans  
 - 💼 [**HustleBank**](https://github.com/YOURUSERNAME/HustleBank) — AI-powered business coach for microentrepreneurs  
 - ⚖️ [**LegalMate**](https://github.com/YOURUSERNAME/LegalMate) — Affordable AI legal support for informal & small businesses  
-
----
-
-### 🧠 Learning & Exploring
-
-- Advanced LLM Ops & Open Source AI  
-- Edge AI for emerging markets  
-- Infrastructure-as-Code & scalable deployment  
-- Human-first UX in mobile apps
 
 ---
 
