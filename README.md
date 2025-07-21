@@ -59,8 +59,9 @@ Here are some ideas to get you started:
 
 ---
 
-### 🚀 Currently Building
+### 🚀 Currently Learning and Building
 
+- 🌱 Learning Mobile Development and expanding my expertise in Web Development, ML/AI Engineering, and Cloud Architecture.
 - 🛠️ [**SmartShop**](https://github.com/Clement023/smartshop) — An on-budget food shopping platform that takes dietary needs into account  
 ---
 
