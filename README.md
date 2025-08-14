@@ -36,23 +36,20 @@ Here are some ideas to get you started:
 ### 💻 Tech I Work With
 
 #### 🧠 Languages
-`Python` | `JavaScript` | `Matlab` | `Node.js` | `SQL` | `HTML` | `CSS` | `Mathematica`
+`Python` | `JavaScript` | `Matlab` | `SQL` | `HTML` | `CSS` | `Mathematica`
 
 #### ⚙️ Frameworks & Libraries
-`React` | `Next.js` | `Express.js` | `FastAPI` | `Tailwind CSS` | `Jupyter` | `Apache Spark` | `Flask` 
+`FastAPI` | `Jupyter` | `Apache Spark` | `Flask` 
 
 #### 🤖 AI / ML / DL / Data
-`TensorFlow` | `PyTorch` | `Scikit-Learn` | `LangChain` | `OpenAI API` | `Azure Machine Learning Studio`  
+`TensorFlow` | `PyTorch` | `Scikit-Learn` | `Azure Machine Learning Studio`  
 `Pandas` | `NumPy` | `Keras` | `IBM Watson Studio` | `OpenCV`
 
 #### 🛢️ Databases
-`MongoDB` | `PostgreSQL` | `Firebase` | `PL/SQL` | `MySQL` | `SQLite`
+`PostgreSQL` | `PL/SQL` | `MySQL` | `SQLite`
 
 #### ☁️ DevOps & Cloud
-`Docker` | `GitHub Actions` | `Vercel` | `Netlify` | `AWS` | `GCP`
-
-#### 📱 Mobile & Real-Time
-`React Native` | `Expo` | `Socket.IO`
+`Docker` | `GitHub Actions` | `AWS` | `GCP`
 
 #### 🎨 Design & Misc
 `Figma` | `Markdown`
