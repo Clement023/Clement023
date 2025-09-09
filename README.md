@@ -43,13 +43,16 @@ Here are some ideas to get you started:
 
 #### 🤖 AI / ML / DL / Data
 `TensorFlow` | `PyTorch` | `Scikit-Learn` | `Azure Machine Learning Studio`  
-`Pandas` | `NumPy` | `Keras` | `IBM Watson Studio` | `OpenCV`
+`Pandas` | `NumPy` | `Keras` | `Pandas` | `AWS Machine Learning` | `Looker Studio` | `IBM Watson Studio` | `OpenCV`
+
+#### 📊 Analytics
+`Microsoft Excel` | `Amazon QuickSight` | `Looker Studio` | `Tableau` | `Google Sheets` | `Power BI` | `Amazon Athena` | `IBM Cognos`
 
 #### 🛢️ Databases
 `PostgreSQL` | `PL/SQL` | `MySQL` | `SQLite`
 
 #### ☁️ DevOps & Cloud
-`Docker` | `GitHub Actions` | `AWS` | `GCP`
+`Docker` | `Amazon SageMaker` | `GitHub Actions` | `AWS` | `Azure` | `GCP`
 
 #### 🎨 Design & Misc
 `Figma` | `Markdown`
